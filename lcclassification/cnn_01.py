@@ -73,7 +73,7 @@ def get_data():
     id_col = "Numerical_ID"
     has_curve_col = "has_curve"
     type_col = "Var_Type"
-    data_file = "~/Datasets/CRTS_Release2/CRTS_Varcat.csv"
+    data_file = "CRTS_Varcat.csv"
     images_dir = "curves"
     images_ending = ".png"
 
